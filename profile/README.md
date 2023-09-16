@@ -9,7 +9,9 @@ Hi there! 👋 CodeMaster is a brand new IDE/CodeEditor designed to meet all you
 ### If you are intrested
 You can reach us on Discord - Click the link above to join our Discord Community
 
-**-OR-**
+<div>
+  <p><b>-OR-</b></p>
+</div>
 
 Please feel free to reach out to me on Discord or via email
 
