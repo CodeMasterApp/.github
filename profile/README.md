@@ -1,5 +1,5 @@
 ## CodeMasterApp
-Hi there 👋, this is CodeMaster a new IDE/CodeEditor that meets your needs. 
+Hi there! 👋 CodeMaster is a brand new IDE/CodeEditor designed to meet all your coding needs. 
 
 > **Note**:\
 > CodeMaster is searching after Swift and CLI Developers and Designers.
