@@ -15,4 +15,4 @@ You can reach us on Discord - Click the link above to join our Discord Community
 
 Please feel free to reach out to me on Discord or via email
 
-**Discord username: nh2487 | email: n3v1010@gmail.com** or **codemasterapp@gmail.com**
+**Discord username: nh2487 | email: n3v1010@gmail.com** or **codemasterapp.dev@gmail.com**
